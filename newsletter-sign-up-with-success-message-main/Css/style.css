@@ -112,7 +112,15 @@ form [type="email"], [type="submit"]{
     color: red;
     font-size: 12px;
 }
-
+.attribution a{
+text-decoration: none;
+color: white;
+}
+.attribution{
+    color: white;
+    text-align: center;
+    margin-bottom: 12px;
+}
 /* mobile  view */
 @media (max-width: 900px){
     body{
